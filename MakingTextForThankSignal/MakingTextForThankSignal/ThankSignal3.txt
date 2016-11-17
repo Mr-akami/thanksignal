@@ -1,0 +1,95 @@
+<File  path="ThankSignal3_00000.jpg" type="graphics_image_t*" symbol="ThankSignal3_00000"/>
+<File  path="ThankSignal3_00001.jpg" type="graphics_image_t*" symbol="ThankSignal3_00001"/>
+<File  path="ThankSignal3_00002.jpg" type="graphics_image_t*" symbol="ThankSignal3_00002"/>
+<File  path="ThankSignal3_00003.jpg" type="graphics_image_t*" symbol="ThankSignal3_00003"/>
+<File  path="ThankSignal3_00004.jpg" type="graphics_image_t*" symbol="ThankSignal3_00004"/>
+<File  path="ThankSignal3_00005.jpg" type="graphics_image_t*" symbol="ThankSignal3_00005"/>
+<File  path="ThankSignal3_00006.jpg" type="graphics_image_t*" symbol="ThankSignal3_00006"/>
+<File  path="ThankSignal3_00007.jpg" type="graphics_image_t*" symbol="ThankSignal3_00007"/>
+<File  path="ThankSignal3_00008.jpg" type="graphics_image_t*" symbol="ThankSignal3_00008"/>
+<File  path="ThankSignal3_00009.jpg" type="graphics_image_t*" symbol="ThankSignal3_00009"/>
+<File  path="ThankSignal3_00010.jpg" type="graphics_image_t*" symbol="ThankSignal3_00010"/>
+<File  path="ThankSignal3_00011.jpg" type="graphics_image_t*" symbol="ThankSignal3_00011"/>
+<File  path="ThankSignal3_00012.jpg" type="graphics_image_t*" symbol="ThankSignal3_00012"/>
+<File  path="ThankSignal3_00013.jpg" type="graphics_image_t*" symbol="ThankSignal3_00013"/>
+<File  path="ThankSignal3_00014.jpg" type="graphics_image_t*" symbol="ThankSignal3_00014"/>
+<File  path="ThankSignal3_00015.jpg" type="graphics_image_t*" symbol="ThankSignal3_00015"/>
+<File  path="ThankSignal3_00016.jpg" type="graphics_image_t*" symbol="ThankSignal3_00016"/>
+<File  path="ThankSignal3_00017.jpg" type="graphics_image_t*" symbol="ThankSignal3_00017"/>
+<File  path="ThankSignal3_00018.jpg" type="graphics_image_t*" symbol="ThankSignal3_00018"/>
+<File  path="ThankSignal3_00019.jpg" type="graphics_image_t*" symbol="ThankSignal3_00019"/>
+<File  path="ThankSignal3_00020.jpg" type="graphics_image_t*" symbol="ThankSignal3_00020"/>
+<File  path="ThankSignal3_00021.jpg" type="graphics_image_t*" symbol="ThankSignal3_00021"/>
+<File  path="ThankSignal3_00022.jpg" type="graphics_image_t*" symbol="ThankSignal3_00022"/>
+<File  path="ThankSignal3_00023.jpg" type="graphics_image_t*" symbol="ThankSignal3_00023"/>
+<File  path="ThankSignal3_00024.jpg" type="graphics_image_t*" symbol="ThankSignal3_00024"/>
+<File  path="ThankSignal3_00025.jpg" type="graphics_image_t*" symbol="ThankSignal3_00025"/>
+<File  path="ThankSignal3_00026.jpg" type="graphics_image_t*" symbol="ThankSignal3_00026"/>
+<File  path="ThankSignal3_00027.jpg" type="graphics_image_t*" symbol="ThankSignal3_00027"/>
+<File  path="ThankSignal3_00028.jpg" type="graphics_image_t*" symbol="ThankSignal3_00028"/>
+<File  path="ThankSignal3_00029.jpg" type="graphics_image_t*" symbol="ThankSignal3_00029"/>
+<File  path="ThankSignal3_00030.jpg" type="graphics_image_t*" symbol="ThankSignal3_00030"/>
+<File  path="ThankSignal3_00031.jpg" type="graphics_image_t*" symbol="ThankSignal3_00031"/>
+<File  path="ThankSignal3_00032.jpg" type="graphics_image_t*" symbol="ThankSignal3_00032"/>
+<File  path="ThankSignal3_00033.jpg" type="graphics_image_t*" symbol="ThankSignal3_00033"/>
+<File  path="ThankSignal3_00034.jpg" type="graphics_image_t*" symbol="ThankSignal3_00034"/>
+<File  path="ThankSignal3_00035.jpg" type="graphics_image_t*" symbol="ThankSignal3_00035"/>
+<File  path="ThankSignal3_00036.jpg" type="graphics_image_t*" symbol="ThankSignal3_00036"/>
+<File  path="ThankSignal3_00037.jpg" type="graphics_image_t*" symbol="ThankSignal3_00037"/>
+<File  path="ThankSignal3_00038.jpg" type="graphics_image_t*" symbol="ThankSignal3_00038"/>
+<File  path="ThankSignal3_00039.jpg" type="graphics_image_t*" symbol="ThankSignal3_00039"/>
+<File  path="ThankSignal3_00040.jpg" type="graphics_image_t*" symbol="ThankSignal3_00040"/>
+<File  path="ThankSignal3_00041.jpg" type="graphics_image_t*" symbol="ThankSignal3_00041"/>
+<File  path="ThankSignal3_00042.jpg" type="graphics_image_t*" symbol="ThankSignal3_00042"/>
+<File  path="ThankSignal3_00043.jpg" type="graphics_image_t*" symbol="ThankSignal3_00043"/>
+<File  path="ThankSignal3_00044.jpg" type="graphics_image_t*" symbol="ThankSignal3_00044"/>
+
+
+
+static const graphics_image_t* ThankSignal3[45] = {
+ThankSignal3_00000,
+ThankSignal3_00001,
+ThankSignal3_00002,
+ThankSignal3_00003,
+ThankSignal3_00004,
+ThankSignal3_00005,
+ThankSignal3_00006,
+ThankSignal3_00007,
+ThankSignal3_00008,
+ThankSignal3_00009,
+ThankSignal3_00010,
+ThankSignal3_00011,
+ThankSignal3_00012,
+ThankSignal3_00013,
+ThankSignal3_00014,
+ThankSignal3_00015,
+ThankSignal3_00016,
+ThankSignal3_00017,
+ThankSignal3_00018,
+ThankSignal3_00019,
+ThankSignal3_00020,
+ThankSignal3_00021,
+ThankSignal3_00022,
+ThankSignal3_00023,
+ThankSignal3_00024,
+ThankSignal3_00025,
+ThankSignal3_00026,
+ThankSignal3_00027,
+ThankSignal3_00028,
+ThankSignal3_00029,
+ThankSignal3_00030,
+ThankSignal3_00031,
+ThankSignal3_00032,
+ThankSignal3_00033,
+ThankSignal3_00034,
+ThankSignal3_00035,
+ThankSignal3_00036,
+ThankSignal3_00037,
+ThankSignal3_00038,
+ThankSignal3_00039,
+ThankSignal3_00040,
+ThankSignal3_00041,
+ThankSignal3_00042,
+ThankSignal3_00043,
+ThankSignal3_00044
+};

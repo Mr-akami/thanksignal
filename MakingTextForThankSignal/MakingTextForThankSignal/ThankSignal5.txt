@@ -1,0 +1,117 @@
+<File  path="ThankSignal5_00000.jpg" type="graphics_image_t*" symbol="ThankSignal5_00000"/>
+<File  path="ThankSignal5_00001.jpg" type="graphics_image_t*" symbol="ThankSignal5_00001"/>
+<File  path="ThankSignal5_00002.jpg" type="graphics_image_t*" symbol="ThankSignal5_00002"/>
+<File  path="ThankSignal5_00003.jpg" type="graphics_image_t*" symbol="ThankSignal5_00003"/>
+<File  path="ThankSignal5_00004.jpg" type="graphics_image_t*" symbol="ThankSignal5_00004"/>
+<File  path="ThankSignal5_00005.jpg" type="graphics_image_t*" symbol="ThankSignal5_00005"/>
+<File  path="ThankSignal5_00006.jpg" type="graphics_image_t*" symbol="ThankSignal5_00006"/>
+<File  path="ThankSignal5_00007.jpg" type="graphics_image_t*" symbol="ThankSignal5_00007"/>
+<File  path="ThankSignal5_00008.jpg" type="graphics_image_t*" symbol="ThankSignal5_00008"/>
+<File  path="ThankSignal5_00009.jpg" type="graphics_image_t*" symbol="ThankSignal5_00009"/>
+<File  path="ThankSignal5_00010.jpg" type="graphics_image_t*" symbol="ThankSignal5_00010"/>
+<File  path="ThankSignal5_00011.jpg" type="graphics_image_t*" symbol="ThankSignal5_00011"/>
+<File  path="ThankSignal5_00012.jpg" type="graphics_image_t*" symbol="ThankSignal5_00012"/>
+<File  path="ThankSignal5_00013.jpg" type="graphics_image_t*" symbol="ThankSignal5_00013"/>
+<File  path="ThankSignal5_00014.jpg" type="graphics_image_t*" symbol="ThankSignal5_00014"/>
+<File  path="ThankSignal5_00015.jpg" type="graphics_image_t*" symbol="ThankSignal5_00015"/>
+<File  path="ThankSignal5_00016.jpg" type="graphics_image_t*" symbol="ThankSignal5_00016"/>
+<File  path="ThankSignal5_00017.jpg" type="graphics_image_t*" symbol="ThankSignal5_00017"/>
+<File  path="ThankSignal5_00018.jpg" type="graphics_image_t*" symbol="ThankSignal5_00018"/>
+<File  path="ThankSignal5_00019.jpg" type="graphics_image_t*" symbol="ThankSignal5_00019"/>
+<File  path="ThankSignal5_00020.jpg" type="graphics_image_t*" symbol="ThankSignal5_00020"/>
+<File  path="ThankSignal5_00021.jpg" type="graphics_image_t*" symbol="ThankSignal5_00021"/>
+<File  path="ThankSignal5_00022.jpg" type="graphics_image_t*" symbol="ThankSignal5_00022"/>
+<File  path="ThankSignal5_00023.jpg" type="graphics_image_t*" symbol="ThankSignal5_00023"/>
+<File  path="ThankSignal5_00024.jpg" type="graphics_image_t*" symbol="ThankSignal5_00024"/>
+<File  path="ThankSignal5_00025.jpg" type="graphics_image_t*" symbol="ThankSignal5_00025"/>
+<File  path="ThankSignal5_00026.jpg" type="graphics_image_t*" symbol="ThankSignal5_00026"/>
+<File  path="ThankSignal5_00027.jpg" type="graphics_image_t*" symbol="ThankSignal5_00027"/>
+<File  path="ThankSignal5_00028.jpg" type="graphics_image_t*" symbol="ThankSignal5_00028"/>
+<File  path="ThankSignal5_00029.jpg" type="graphics_image_t*" symbol="ThankSignal5_00029"/>
+<File  path="ThankSignal5_00030.jpg" type="graphics_image_t*" symbol="ThankSignal5_00030"/>
+<File  path="ThankSignal5_00031.jpg" type="graphics_image_t*" symbol="ThankSignal5_00031"/>
+<File  path="ThankSignal5_00032.jpg" type="graphics_image_t*" symbol="ThankSignal5_00032"/>
+<File  path="ThankSignal5_00033.jpg" type="graphics_image_t*" symbol="ThankSignal5_00033"/>
+<File  path="ThankSignal5_00034.jpg" type="graphics_image_t*" symbol="ThankSignal5_00034"/>
+<File  path="ThankSignal5_00035.jpg" type="graphics_image_t*" symbol="ThankSignal5_00035"/>
+<File  path="ThankSignal5_00036.jpg" type="graphics_image_t*" symbol="ThankSignal5_00036"/>
+<File  path="ThankSignal5_00037.jpg" type="graphics_image_t*" symbol="ThankSignal5_00037"/>
+<File  path="ThankSignal5_00038.jpg" type="graphics_image_t*" symbol="ThankSignal5_00038"/>
+<File  path="ThankSignal5_00039.jpg" type="graphics_image_t*" symbol="ThankSignal5_00039"/>
+<File  path="ThankSignal5_00040.jpg" type="graphics_image_t*" symbol="ThankSignal5_00040"/>
+<File  path="ThankSignal5_00041.jpg" type="graphics_image_t*" symbol="ThankSignal5_00041"/>
+<File  path="ThankSignal5_00042.jpg" type="graphics_image_t*" symbol="ThankSignal5_00042"/>
+<File  path="ThankSignal5_00043.jpg" type="graphics_image_t*" symbol="ThankSignal5_00043"/>
+<File  path="ThankSignal5_00044.jpg" type="graphics_image_t*" symbol="ThankSignal5_00044"/>
+<File  path="ThankSignal5_00045.jpg" type="graphics_image_t*" symbol="ThankSignal5_00045"/>
+<File  path="ThankSignal5_00046.jpg" type="graphics_image_t*" symbol="ThankSignal5_00046"/>
+<File  path="ThankSignal5_00047.jpg" type="graphics_image_t*" symbol="ThankSignal5_00047"/>
+<File  path="ThankSignal5_00048.jpg" type="graphics_image_t*" symbol="ThankSignal5_00048"/>
+<File  path="ThankSignal5_00049.jpg" type="graphics_image_t*" symbol="ThankSignal5_00049"/>
+<File  path="ThankSignal5_00050.jpg" type="graphics_image_t*" symbol="ThankSignal5_00050"/>
+<File  path="ThankSignal5_00051.jpg" type="graphics_image_t*" symbol="ThankSignal5_00051"/>
+<File  path="ThankSignal5_00052.jpg" type="graphics_image_t*" symbol="ThankSignal5_00052"/>
+<File  path="ThankSignal5_00053.jpg" type="graphics_image_t*" symbol="ThankSignal5_00053"/>
+<File  path="ThankSignal5_00054.jpg" type="graphics_image_t*" symbol="ThankSignal5_00054"/>
+<File  path="ThankSignal5_00055.jpg" type="graphics_image_t*" symbol="ThankSignal5_00055"/>
+
+
+
+static const graphics_image_t* ThankSignal5[56] = {
+ThankSignal5_00000,
+ThankSignal5_00001,
+ThankSignal5_00002,
+ThankSignal5_00003,
+ThankSignal5_00004,
+ThankSignal5_00005,
+ThankSignal5_00006,
+ThankSignal5_00007,
+ThankSignal5_00008,
+ThankSignal5_00009,
+ThankSignal5_00010,
+ThankSignal5_00011,
+ThankSignal5_00012,
+ThankSignal5_00013,
+ThankSignal5_00014,
+ThankSignal5_00015,
+ThankSignal5_00016,
+ThankSignal5_00017,
+ThankSignal5_00018,
+ThankSignal5_00019,
+ThankSignal5_00020,
+ThankSignal5_00021,
+ThankSignal5_00022,
+ThankSignal5_00023,
+ThankSignal5_00024,
+ThankSignal5_00025,
+ThankSignal5_00026,
+ThankSignal5_00027,
+ThankSignal5_00028,
+ThankSignal5_00029,
+ThankSignal5_00030,
+ThankSignal5_00031,
+ThankSignal5_00032,
+ThankSignal5_00033,
+ThankSignal5_00034,
+ThankSignal5_00035,
+ThankSignal5_00036,
+ThankSignal5_00037,
+ThankSignal5_00038,
+ThankSignal5_00039,
+ThankSignal5_00040,
+ThankSignal5_00041,
+ThankSignal5_00042,
+ThankSignal5_00043,
+ThankSignal5_00044,
+ThankSignal5_00045,
+ThankSignal5_00046,
+ThankSignal5_00047,
+ThankSignal5_00048,
+ThankSignal5_00049,
+ThankSignal5_00050,
+ThankSignal5_00051,
+ThankSignal5_00052,
+ThankSignal5_00053,
+ThankSignal5_00054,
+ThankSignal5_00055
+};
