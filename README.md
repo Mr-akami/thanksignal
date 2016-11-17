@@ -14,6 +14,8 @@
 2. スマホアプリのアイコンをタップするorスマホに向かって「ありがとう」と音声認識させる
 3. GR-PEACHのLCD上にアニメーションが表示される
 
+![回路図](https://github.com/hoshiimo28/thanksignal/blob/master/ThankSignal%E5%9B%9E%E8%B7%AF%E6%A7%8B%E6%88%90.jpg?raw=true "回路図")
+
 
 ## ファイル構成
 ### GR-PEACH側 ThankSignal_PEACH
