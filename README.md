@@ -32,6 +32,9 @@ GR-PEACH(P42) - BVMCN5103-BK(GND)
 ### アニメーション作成補助ツール
 * xmlを自動作成する
 
+### 外装ファイル
+* ThankSignal.ai
+
 ### スマートフォン側
 下参照  
 github：https://github.com/koooootake/ThankSignal-iOS
