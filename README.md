@@ -6,7 +6,7 @@
 
 1. ThankSignal_PEACHをダウンロードし、コンパイルしたbinファイルをGR-PEACHに書き込みます
 2. ThankSignal_Braverodgeをダウンロードし、mbed HRM1017 にコンパイルしたbinファイルを書き込みます
-3．iphoneにスマートフォン側アプリをインストール
+3. iphoneにスマートフォン側アプリをインストール
 
 使い方  
 
@@ -38,3 +38,10 @@ GR-PEACH(P42) - BVMCN5103-BK(GND)
 ### スマートフォン側
 下参照  
 github：https://github.com/koooootake/ThankSignal-iOS
+
+## 必要デバイス
+* GR-PEACH
+* GR-PEACH 4.3inch LCD Shield
+* mbed HRM1017(BVMCN5103-BK)
+* iphone
+
