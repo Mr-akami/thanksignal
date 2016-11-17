@@ -15,9 +15,9 @@
 3. GR-PEACHのLCD上にアニメーションが表示される
 
 ## 回路図の説明
-５V電源 - GR-PEACH
-GR-PEACH(D9) - BVMCN5103-BK(P0_9)
-GR-PEACH(P42) - BVMCN5103-BK(GND)
+５V電源 - GR-PEACH  
+GR-PEACH(D9) - BVMCN5103-BK(P0_9)  
+GR-PEACH(P42) - BVMCN5103-BK(GND)  
 ![回路図](https://github.com/hoshiimo28/thanksignal/blob/master/ThankSignal%E5%9B%9E%E8%B7%AF%E6%A7%8B%E6%88%90.jpg?raw=true "回路図")
 
 
