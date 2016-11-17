@@ -25,11 +25,11 @@ GR-PEACH(P42) - BVMCN5103-BK(GND)
 ### GR-PEACH側 ThankSignal_PEACH
 *  登録したアニメーションを再生し、画面に表示する
 
-### mbed側（BLE）
+### mbed側（BLE）　ThankSignal_Braveridge
 * BLEでスマホと通信し、表示するアニメーションの指定を受けとる
 * GR-PEACHにシリアル通信で表示するアニメーションを指定する
 
-### アニメーション作成補助ツール
+### アニメーション作成補助ツール　MakingTextForThankSignal
 * xmlを自動作成する
 
 ### 外装ファイル
