@@ -1,5 +1,5 @@
 # thanksignal
-ルネサスコンテスト2016に出したThankSignalの説明
+ルネサスコンテスト2016　ThankSignal
 
 ## 使い方
 準備  
