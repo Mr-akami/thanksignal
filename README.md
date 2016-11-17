@@ -6,7 +6,6 @@
 
 1. ThankSignal_PEACHをダウンロードし、コンパイルしたbinファイルをGR-PEACHに書き込みます
 2. ThankSignal_Braverodgeをダウンロードし、mbed HRM1017 にコンパイルしたbinファイルを書き込みます
-3. iphoneにスマートフォン側アプリをインストール
 
 使い方  
 
