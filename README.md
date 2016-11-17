@@ -1,7 +1,7 @@
 # thanksignal
 ルネサスコンテスト2016に出したThankSignalの説明とコード類
 
-## GR-PEACH側
+## GR-PEACH側 ThankSignal_PEACH
 *  登録したアニメーションを再生し、画面に表示する
 
 ## mbed側（BLE）
